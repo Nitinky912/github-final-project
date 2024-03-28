@@ -31,7 +31,7 @@
 # Do not use this in production. Sample purpose only.
 # Author: Upkar Lidder (IBM)
 #Additional Authors:
-# <your GitHub username>
+# Nitinky912
 # Input:
 #p, principal amount
 #t, time period in years #r, annual rate of interest
